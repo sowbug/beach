@@ -1,0 +1,4 @@
+title=beach
+author=sowbug
+api=1
+orientation=landscape

@@ -1,0 +1,7 @@
+Licence: GPL
+
+Thanks to Planet Cute for the sprites. No claim made to that artwork.
+
+The beach and water textures were "found somewhere on the internet." Same with
+the wave sounds (which I manipulated in Audacity). The non-free sounds were
+bought from Soundrangers, and are not included in this distribution.
